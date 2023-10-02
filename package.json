@@ -18,10 +18,11 @@
     "@wdio/mocha-framework": "^8.16.15",
     "@wdio/spec-reporter": "^8.16.12",
     "allure-commandline": "^2.24.0",
-    "wdio-wait-for": "^3.0.7"
-  },
-  "dependencies": {
+    "wdio-wait-for": "^3.0.7",
     "chromedriver": "^117.0.3",
     "wdio-chromedriver-service": "^8.1.1"
+  },
+  "dependencies": {
+    
   }
 }
