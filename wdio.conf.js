@@ -53,9 +53,7 @@ exports.config = {
     capabilities: [{
         maxInstances: 1,
         browserName: 'chrome',
-        'goog:chromeOptions': {
-          binary: '/path/to/chrome/executable',
-        },
+        
       },],
 
     //
