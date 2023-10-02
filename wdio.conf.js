@@ -53,9 +53,6 @@ exports.config = {
     capabilities: [{
         maxInstances: 1,
         browserName: 'chrome',
-        'goog:chromeOptions': {
-            binary: '/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome',
-          },
         
       },],
 
