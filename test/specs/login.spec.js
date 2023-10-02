@@ -13,7 +13,7 @@ describe ("Login", function (){
         // await $("[name = 'username']").setValue("student")
         // await $("[name = 'password']").setValue("Password123")
         // await $("[id ='submit']").click()
-        // await expect ($(".post-title")).toHaveTextContaining("Logged In Successfully")
+        //  await expect ($(".post-title")).toHaveTextContaining("Logged In Successfully")
     })
 
 })
